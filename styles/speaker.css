@@ -31,7 +31,6 @@ html{
 }
 /* the styles for the header */
 header{
-
 	border-bottom: 3px solid #931429;
 	padding-top: 1.5em;
 	padding-bottom: 2em;
@@ -44,7 +43,6 @@ header img {
 }
 header h2{
 	font-size: 170%;
-	color: #800000;
 }
 header h3{
 	font-size: 130%;
@@ -64,17 +62,16 @@ h1{
 	padding-top: .5em;
 	padding-bottom: .25em;
 	margin: 0;
-
+	color: #800000;
 }
 article{
 	padding-bottom: .5em;
 	padding-top: .5em;
-	border-bottom: #800000 solid 1px;
-	border-top: #800000 solid 1px;
 
 }
 article h2{
 	padding-top: 0;
+	color: black;
 }
 article h3{
 	font-size: 105%;
@@ -91,7 +88,6 @@ article img{
 }
 main section h2{
 	font-size: 130%;
-	color: #800000;
 	padding-top: .5em;
 	padding-bottom: .25em;
 }
